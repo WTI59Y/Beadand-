@@ -1,1 +1,1 @@
-# Beadand-
+Szeretnék egy olyan oldalt létrehozni, amiben van register/login rendszer, emellett egy üzenőfal szerű weblapot akarok létrehozni. Ez annyit takar, hogy a bejelentkezett tagok feltölthetnek a saját autóikról adatokat(hengerűrtartalom, végsebesség, autó márkája és típusa stb...), fotókat, alkothatnak véleményeket az autóikról, gondolok itt: előnyökre és hátrányokra. (De ez az ötlet még kérdőjeles)
